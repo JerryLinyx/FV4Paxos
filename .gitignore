@@ -3,3 +3,4 @@
 *.test
 *.prof
 coverage.out
+logs/
