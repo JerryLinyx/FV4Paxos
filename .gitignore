@@ -1,0 +1,5 @@
+.DS_Store
+.gocache/
+*.test
+*.prof
+coverage.out
